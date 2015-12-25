@@ -1,6 +1,7 @@
 # face_recog
 A face recognition system
 
-#Requirements
+## Requirements
 OpenCV 2.4.6
-Qt for windows 5.1.1
+
+Qt 5.1.1 for windows
